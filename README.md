@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects, predictive modelling, and Python-based tools for insights.
 - 📫 How to reach me: managamasindi@gmail.com | www.linkedin.com/in/masindi-managa-775557263
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I’ve attended four different high schools and believe this journey shaped my adaptability and resilience.
+- ⚡ Fun fact: I am 2x published author
 
 <!---
 MasindiManaga/MasindiManaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
