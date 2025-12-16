@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasindiManaga
 - 👀 I’m interested in Data Science, Machine Learning and solving real-world problems using data.
-- 🌱 I’m currently pursuing the CS50: Introduction to Computer Science certificate 
+- 🌱 I’m currently working on some of my data science skills.
 - 💞️ I’m looking to collaborate on data analysis projects, predictive modelling, and Python-based tools for insights.
 - 📫 How to reach me: managamasindi@gmail.com | www.linkedin.com/in/masindi-managa-775557263
 - 😄 Pronouns: She/her/hers
